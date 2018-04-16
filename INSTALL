@@ -1,0 +1,9 @@
+Building Gixelycoin
+
+See doc/readme-qt.rst for instructions on building Gixelycoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gixelycoin.
+
+See doc/build-*.txt for instructions on building gixelycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gixelycoin.
